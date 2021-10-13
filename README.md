@@ -4,5 +4,5 @@
 [00] Getting started
 
 ## Week 2
-[01] Console Input and Output
+[01] Console Input and Output\
 [02] Flow of Control
