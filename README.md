@@ -6,3 +6,6 @@
 ## Week 2
 [01] Console Input and Output\
 [02] Flow of Control
+
+## Week 3
+[03] Defining Classes
